@@ -89,6 +89,9 @@ Här behöver ni skicka med användaren i anropets body
 POST http://localhost:8080/api/auth/register
 ```
 
+### Exempeldata
+Exempeldata att stoppa in när ni skall skapa en ny film [hittar ni här](https://santosnr6.github.io/Data/movies.json)
+
 ### Design
 Ni har fria tyglar att designa er egen applikation. Om ni vill så får ni jättegärna använda er av den design som jag visar i mitt exempel (ni hittar frames på denna i mappen assets).
 
