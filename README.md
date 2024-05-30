@@ -96,7 +96,7 @@ Exempeldata att stoppa in när ni skall skapa en ny film [hittar ni här](https:
 Ni har fria tyglar att designa er egen applikation. Om ni vill så får ni jättegärna använda er av den design som jag visar i mitt exempel (ni hittar frames på denna i mappen assets).
 
 ### Videogenomgång
-Genomgång av uppgifter [hittar ni här](https://folkuniversitetet-se.zoom.us/rec/share/fpQn-6zd5C5-lPW7MDJLmrUsStJWjVJJA0edAVUvY94BVFznSbPImz9sGRTFht_H.Q_J_Izs5An7qpx3k
+Genomgång av uppgiften [hittar ni här](https://folkuniversitetet-se.zoom.us/rec/share/fpQn-6zd5C5-lPW7MDJLmrUsStJWjVJJA0edAVUvY94BVFznSbPImz9sGRTFht_H.Q_J_Izs5An7qpx3k
 ) Lösenkod: S@dj8.N2
 
 ### Inlämning
